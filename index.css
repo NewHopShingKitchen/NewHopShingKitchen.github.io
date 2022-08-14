@@ -1,0 +1,19 @@
+#tabs {
+  height: 100px;
+}
+
+.social-icon {
+  color: rgb(170, 79, 255);
+  transition: color 0.2s;
+}
+.social-icon :hover {
+  color: purple;
+}
+.media-icon {
+  color: cyan;
+  transition: color 0.2s;
+}
+
+.media-icon :hover {
+  color: blue;
+}
