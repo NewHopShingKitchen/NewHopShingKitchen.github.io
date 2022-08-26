@@ -102,7 +102,7 @@ hr {
 /*home*/
 /*intro*/
 #Home h2 {
-  color: #002b5b;
+  color: #000000;
 }
 #homeIntro {
   text-align: center;
@@ -223,7 +223,7 @@ hr {
 }
 #Contact #contactTitle {
   font-family: Lora;
-  color: #002b5b;
+  color: #000000;
 }
 #contactHours,
 #contactMapAndOthers {
