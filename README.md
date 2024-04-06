@@ -1,1 +1,1 @@
-<img src="images/image(WFR).jpeg" width=100 height=200>
+<img src="images/image(WFR).jpeg" width=125 height=200>
